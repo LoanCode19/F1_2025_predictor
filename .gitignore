@@ -30,7 +30,6 @@ pip-wheel-metadata/
 .DS_Store
 
 # Data and models
-/data/
 /models/
 *.joblib
 cache_folder
