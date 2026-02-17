@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+pip-wheel-metadata/
+
+# Pytest
+.pytest_cache/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
+
+# Data and models
+/data/
+/models/
+*.joblib
+cache_folder
+# logs
+*.log
+
+# dotenv
+.env
+
+# OS files
+Thumbs.db
+*.ff1pkl
+*.sqlite3
